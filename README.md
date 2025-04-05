@@ -2,7 +2,12 @@
 
 This project implements a performance-focused data grid component in ReactJS from scratch, designed to efficiently render large CSV files using virtualization.
 
-**Live Demo:** [Link to your tiiny.host demo]
+```
+    npm install
+    npm run dev
+```
+
+**Live Demo:** https://lavender-annabela-58.tiiny.site/
 
 ## Features
 
